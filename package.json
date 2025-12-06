@@ -1,0 +1,27 @@
+{
+  "name": "food-delivery-app",
+  "version": "1.0.0",
+  "description": "This is Food Delivery App by Arpita",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/Amature-Learner24/Food-Delivery-App.git)"
+  },
+  "keywords": [
+    "Arpita",
+    "React",
+    "Food",
+    "Delivery"
+  ],
+  "author": "Arpita Poojari",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.16.1"
+  },
+  "dependencies": {
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0"
+  }
+}
